@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Entry point
- *Description: 'print all single digits numbers of base 10 starting from 0, followed by a new line'
  * Return: Always 0 (correct)
  */
 int main (void)
@@ -12,7 +11,4 @@ int main (void)
 		printf("%d", n);
 	printf("\n");
 	return (0);
-
 }
-	  
-
