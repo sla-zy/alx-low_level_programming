@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * print_alphabet - Entry point
+ * main - Entry point
  * Return:0
  */
 
