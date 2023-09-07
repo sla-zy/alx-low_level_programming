@@ -1,12 +1,12 @@
 #include <unistd.h>
 /**
  * main entry point
- * return 0 always (correct)
+ *
+ * return: always 0 (correct)
  */
-int maim (void)
-
+int maim(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",59);
+	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 
 }
