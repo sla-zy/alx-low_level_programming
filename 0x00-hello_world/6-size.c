@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - programm that prints the size of various computer complide
- * Return 0 (correct)
+ *
+ * Return: always 0 (correct)
  */
 int main (voi)
 {
