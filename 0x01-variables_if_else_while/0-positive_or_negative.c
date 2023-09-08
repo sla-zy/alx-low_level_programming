@@ -1,10 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* print random numbers as positive or negative or zero*/
 /**
  * main - Entry point
- * Return : Always 0 (correct)
+ * Return: Always 0 (correct)
  */
 int main(void)
 {
