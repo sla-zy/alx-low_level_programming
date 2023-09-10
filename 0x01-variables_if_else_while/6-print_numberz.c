@@ -3,12 +3,12 @@
  * main - Entry point
  * Return: Always 0 (correct)
  */
-int main (void)
+int main(void)
 {
 	int n;
 
 	for (n = 0; n < 10; n++)
-		printf("%d", n);
+	printf("%d", n);
 	printf("\n");
 	return (0);
 }
