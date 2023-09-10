@@ -4,7 +4,7 @@
  * main - Entry point
  * Return: Always 0
  */
-int main (void)
+int main(void)
 {
 	int x;
 	char y;
@@ -13,7 +13,7 @@ int main (void)
 	{
 		putchar(x);
 	}
-	for (y = 'a'; y <= 'f' y++)
+	for (y = 'a'; y <= 'f'; y++)
 	{
 		putchar(y);
 	}
